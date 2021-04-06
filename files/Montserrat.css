@@ -1,0 +1,53 @@
+@font-face {
+    font-family: 'Montserrat';
+    src: url('https://trans1.newtrend24.com.ua/vikor/land/fonts/Montserrat/subsetMontserrat Light.woff2') format('woff2'),
+        url('https://trans1.newtrend24.com.ua/vikor/land/fonts/Montserrat/subsetMontserrat Light.woff') format('woff'),
+        url('https://trans1.newtrend24.com.ua/vikor/land/fonts/Montserrat/subsetMontserrat Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Montserrat';
+    src: url('https://trans1.newtrend24.com.ua/vikor/land/fonts/Montserrat/subsetMontserrat Regular.woff2') format('woff2'),
+        url('https://trans1.newtrend24.com.ua/vikor/land/fonts/Montserrat/subsetMontserrat Regular.woff') format('woff'),
+        url('https://trans1.newtrend24.com.ua/vikor/land/fonts/Montserrat/subsetMontserrat Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Montserrat';
+    src: url('https://trans1.newtrend24.com.ua/vikor/land/fonts/Montserrat/subsetMontserrat Italic.woff2') format('woff2'),
+        url('https://trans1.newtrend24.com.ua/vikor/land/fonts/Montserrat/subsetMontserrat Italic.woff') format('woff'),
+        url('https://trans1.newtrend24.com.ua/vikor/land/fonts/Montserrat/subsetMontserrat Italic.ttf') format('truetype');
+    font-weight: 400;
+    font-style: italic;
+}
+@font-face {
+    font-family: 'Montserrat';
+    src: url('https://trans1.newtrend24.com.ua/vikor/land/fonts/Montserrat/subsetMontserrat Medium.woff2') format('woff2'),
+        url('https://trans1.newtrend24.com.ua/vikor/land/fonts/Montserrat/subsetMontserrat Medium.woff') format('woff'),
+        url('https://trans1.newtrend24.com.ua/vikor/land/fonts/Montserrat/subsetMontserrat Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Montserrat';
+    src: url('https://trans1.newtrend24.com.ua/vikor/land/fonts/Montserrat/subsetMontserrat Bold.woff2') format('woff2'),
+        url('https://trans1.newtrend24.com.ua/vikor/land/fonts/Montserrat/subsetMontserrat Bold.woff') format('woff'),
+        url('https://trans1.newtrend24.com.ua/vikor/land/fonts/Montserrat/subsetMontserrat Bold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Montserrat';
+    src: url('https://trans1.newtrend24.com.ua/vikor/land/fonts/Montserrat/subsetMontserrat Black.woff2') format('woff2'),
+        url('https://trans1.newtrend24.com.ua/vikor/land/fonts/Montserrat/subsetMontserrat Black.woff') format('woff'),
+        url('https://trans1.newtrend24.com.ua/vikor/land/fonts/Montserrat/subsetMontserrat Black.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+}
+
+
+
+
+
